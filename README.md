@@ -8,7 +8,7 @@ Install a web server (Nginx or Apache).
 
 Clone the static site from GitHub:
 
-git clone 
+git clone https://github.com/usman-30/Mini-Finance-Static-web.git
 Copy the site files to the web server’s root directory (e.g., /var/www/html).
 
 Start the web server and ensure the website is accessible via the EC2 public IP.
